@@ -41,6 +41,6 @@ def type_corrections():
 
     print("🔥 Corrected")
 
-# # Porcentajes de recupero por provi ncia
-# # Denuncias de Recuperados / robos , comparación diaria => [El tipo de denunicas] doble line chart
-# # Regiones con más denuncias
+# Porcentajes de recupero por provincia
+# Denuncias de Recuperados / robos , comparación diaria => [El tipo de denunicas] doble line chart
+# Regiones con más denuncias
